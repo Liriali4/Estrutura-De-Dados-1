@@ -1,0 +1,16 @@
+1-Escreva um programa que leia 4 nº inteiros, assumindo que os nºs são todos diferentes mostrios em ordem decrescente.
+2-Uma empresa de hospedagem de site cobra pelos seus serviços da seguinte forma: a hospedagem de um site simples custa 25.000 por mês, de um complexo 65.000 por mês, além disso o cliente paga pelo espaço es«xtra em gigabytes. faça um programa que leia o tipo de site, a quantidade de meses que vai ficar hospedado e a quantidade de gigabytes extras que o cliente vai preseisa de a cordo com a tabela:
+Para o simple: 
+Até 5 GB- 2500 por cada GB
+acima de 5Gb - 5000 por cada GB
+para o complexo
+até 10 GB - 8500 por cada GB
+acima de 10 GB- 12000 por cada GB
+e no final mostre o valor a pagar.
+
+3- escreva um programa que leia vários nº inteiros encerra  a leitura quando for lido o número 99, escrutura de repitição While. No final imprima o maior numero lido.
+
+4- Diz se que um nº N é um quadro perfeito se existerem M nºs impares consecutivos apartir de um cuja a soma seja igual a N, exemplo N= 16 então M= 1+3+5+7. Faça um programa que leia uma número qualquer e diga se é ou não um quadrado perfeito de acordo com a primeira condição. e a soma começa sempre com 1.
+
+ 
+5- Elabore um programa que leia 9 numeros inteiros de forma aleátoria, calcule e mostre a quantidade de números perfeitos  e quais são, um n é igual a soma dos seus divisores, ex: n= 6, 6= 1+2+3.
